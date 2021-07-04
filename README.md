@@ -6,7 +6,7 @@ O DESAFIO
 
 Este projeto consiste na criação de dois programas: uma calculadora de visualizações de anúncios, para estimar a quantidade máxima de visualizações de anúncios online, e um sistema de cadastro de anúncios, que fornece um relatório dos anúncios cadastrados e permite filtrá-los por cliente e intervalo de tempo.
 
-Ao todo, foram criadas quatro classes, uma para construir o código da calculadora, uma para construir o código do sistema de cadastro, e duas para realizar os testes unitários.
+Ao todo, foram criadas quatro classes, uma para construir o código da calculadora, uma para construir o código do sistema de cadastro, e duas para realizar os testes unitários. Os códigos fonte se encontram dentro da pasta "anuncio".
 
 Todos os programas foram criados para serem compilados no console da IDE (Integrated Development Environment), inserindo os dados pelo teclado.
 
